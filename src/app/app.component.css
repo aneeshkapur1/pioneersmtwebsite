@@ -1,0 +1,22 @@
+
+.whole-content{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+app-footer{
+    bottom: 0;
+    width: 100%;
+}
